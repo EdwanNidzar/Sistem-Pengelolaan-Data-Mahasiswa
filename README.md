@@ -26,7 +26,7 @@ Fitur ini digunakan untuk memperbarui data Mahasiswa. Fitur ini dapat digunakan 
 
 ### 3. Menghapus Data Mahasiswa
 ![fitur3](https://user-images.githubusercontent.com/56621669/215969282-0e609095-56b1-4c7b-9572-6d1c37d9ff69.png)
-Fitur ini digunakan untuk menghapus data Mahasiswa. Pilih data Mahasiswa yang ingin dihapus, kemudian tekan tombol "Delete" untuk menghapus. 
+Fitur ini digunakan untuk menghapus data Mahasiswa. Pilih data Mahasiswa yang ingin dihapus, kemudian tekan tombol "DELETE" untuk menghapus. 
 
 ### 4. Cari Data Mahasiswa
 ![fitur4](https://user-images.githubusercontent.com/56621669/215969842-5e806e76-1f6b-45b9-a93e-79438a522568.png)
