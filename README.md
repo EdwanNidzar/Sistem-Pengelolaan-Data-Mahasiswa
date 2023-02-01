@@ -31,9 +31,9 @@ Fitur ini digunakan untuk menghapus data Mahasiswa. Pilih data Mahasiswa yang in
 ### 4. Cari Data Mahasiswa
 ![fitur4](https://user-images.githubusercontent.com/56621669/215969842-5e806e76-1f6b-45b9-a93e-79438a522568.png)
 
-Fitur ini digunakan untuk mencari data mahasiswa berdasarkan nama atau prodi
+Fitur ini digunakan untuk mencari data mahasiswa berdasarkan nama atau prodi.
 
 ### 5. Mengurutkan Data Mahasiswa
-![fitur5](https://user-images.githubusercontent.com/95998981/212692520-1b1f3f7f-1e25-47dd-804b-19b5772d55d5.png)
-![fitur5 2](https://user-images.githubusercontent.com/95998981/212692733-0e18e89e-683b-40cb-a857-2971145fdfe6.png)
-Fitur ini digunakan untuk mengurutkan data mahasiswa berdasarkan kolom tertentu. Akses fitur ini dengan menekan header tabel sesuai dengan kolom yang ingin diurutkan. Pengurutan dapat dilakukan secara menaik(ascending) atau menurun(descending). Contoh di atas diurutkan berdasarkan Semester.
+![fitur5](https://user-images.githubusercontent.com/56621669/215970528-8a2355d4-6a24-4b6d-a8c0-35050708cae0.png)
+![fitur5 2](https://user-images.githubusercontent.com/56621669/215970658-f3474b32-3087-498f-91e8-7199c372a159.png)
+Fitur ini digunakan untuk mengurutkan data mahasiswa berdasarkan kolom tertentu. Pengurutan dapat dilakukan secara menaik(ascending) atau menurun(descending).
