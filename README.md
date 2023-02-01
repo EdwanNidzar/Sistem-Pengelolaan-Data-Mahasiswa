@@ -37,3 +37,10 @@ Fitur ini digunakan untuk mencari data mahasiswa berdasarkan nama atau prodi.
 ![fitur5](https://user-images.githubusercontent.com/56621669/215970528-8a2355d4-6a24-4b6d-a8c0-35050708cae0.png)
 ![fitur5 2](https://user-images.githubusercontent.com/56621669/215970658-f3474b32-3087-498f-91e8-7199c372a159.png)
 Fitur ini digunakan untuk mengurutkan data mahasiswa berdasarkan kolom tertentu. Pengurutan dapat dilakukan secara menaik(ascending) atau menurun(descending).
+
+### 6. Melihat Jumlah Data Mahasiswa Berdasarkan Prodi
+![fitur6](https://user-images.githubusercontent.com/56621669/215971034-2d277b52-02e9-4130-b999-25f2625bbdd5.png)
+![fitur6 2](https://user-images.githubusercontent.com/56621669/215971328-673d4cab-e531-4814-b4f6-136b15c91e25.png)
+Fitur ini digunakan untuk melihat jumlah mahasiswa yang berada di prodi tersebut.
+
+
