@@ -43,4 +43,9 @@ Fitur ini digunakan untuk mengurutkan data mahasiswa berdasarkan kolom tertentu.
 ![fitur6 2](https://user-images.githubusercontent.com/56621669/215971328-673d4cab-e531-4814-b4f6-136b15c91e25.png)
 Fitur ini digunakan untuk melihat jumlah mahasiswa yang berada di prodi tersebut.
 
+### 6. Melihat Jumlah Data Mahasiswa Berdasarkan Prodi
+![image6](https://user-images.githubusercontent.com/56621669/215971697-70b444fa-43b4-4d12-b415-5aadc95786d0.png)
+![image6 2](https://user-images.githubusercontent.com/56621669/215971896-15810b66-c43a-448a-a6b8-0b3716b53f79.png)
+Fitur ini digunakan untuk melihat jumlah mahasiswa yang berada di prodi tersebut.
+
 
