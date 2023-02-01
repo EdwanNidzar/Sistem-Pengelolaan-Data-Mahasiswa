@@ -1,17 +1,23 @@
-### Nama          : Thoriq Achmad Ramadhan 
-### Universitas   : Universitas Brawijaya
-### Asal          : Kota Malang
+### Nama          : Muhammad Edwan Nidzar
+### Universitas   : Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin
+### Asal          : Kota Banjarmasin
 
 # Website Sistem Pengelolaan Data Mahasiswa
-Dibuat menggunakan Laravel & MySQL
+Dibuat menggunakan CI & MySQL
 
-https://github.com/EdwanNidzar/magang/issues/1#issue-1565495038
+![image](https://user-images.githubusercontent.com/56621669/215967558-9661d47e-7f2c-4fdc-a469-e10ccef2fc60.png)
+
 
 ## Fitur
-### 1. Menambah Data Mahasiswa
-![fitur1](https://user-images.githubusercontent.com/95998981/212691615-de3be5c0-d5a3-482f-9f0d-3664b8cedd35.png)
-![fitur1 2](https://user-images.githubusercontent.com/95998981/212691771-c0a000fa-0047-4990-9869-631e6b327dde.png)
-Fitur ini digunakan untuk menambahkan data baru Mahasiswa. Fitur ini dapat digunakan dengan menekan tombol "+ Tambah Mahasiswa", kemudian isi seluruh field yang ada sesuai dengan data mahasiswa yang ingin ditambahkan. Pastikan seluruh data sudah terisi dengan benar, kemudian tekan tombol "SIMPAN" untuk menambahkan data baru. Terdapat tombol "back" untuk kembali ke menu utama.
+### 1. LOGIN
+![fitur1](https://user-images.githubusercontent.com/56621669/215967803-3049fafe-7e58-41f7-9472-3444ada6cc49.png)
+Fitur ini digunakan untuk login users, terdapat dua users yaitu admin dan user masing masing memeliki role berbeda.
+
+
+### 2. Menambah Data Mahasiswa
+![fitur2](https://user-images.githubusercontent.com/56621669/215968345-7e50800b-a4ff-4a1d-980f-040f224b03f7.png)
+![fitur2 2](https://user-images.githubusercontent.com/56621669/215968437-836ebc13-2864-41af-a808-7941829e451c.png)
+Fitur ini digunakan untuk menambahkan data baru Mahasiswa. Fitur ini dapat digunakan dengan menekan tombol "ADD", kemudian isi seluruh field yang ada sesuai dengan data mahasiswa yang ingin ditambahkan. Pastikan seluruh data sudah terisi dengan benar, kemudian tekan tombol "SIMPAN" untuk menambahkan data baru
 
 ### 2. Mengedit Data Mahasiswa
 ![fitur2](https://user-images.githubusercontent.com/95998981/212692317-151b66ce-e609-4f44-bd33-564c138a6814.png)
@@ -30,13 +36,3 @@ Fitur ini digunakan untuk mencari data mahasiswa berdasarkan nama atau prodi. Ak
 ![fitur5](https://user-images.githubusercontent.com/95998981/212692520-1b1f3f7f-1e25-47dd-804b-19b5772d55d5.png)
 ![fitur5 2](https://user-images.githubusercontent.com/95998981/212692733-0e18e89e-683b-40cb-a857-2971145fdfe6.png)
 Fitur ini digunakan untuk mengurutkan data mahasiswa berdasarkan kolom tertentu. Akses fitur ini dengan menekan header tabel sesuai dengan kolom yang ingin diurutkan. Pengurutan dapat dilakukan secara menaik(ascending) atau menurun(descending). Contoh di atas diurutkan berdasarkan Semester.
-
-## Proses Instalasi
-nb: Lakukan perintah di dalam tanda petik dua("") tanpa memasukkan tanda petiknya.
-
-- Buka folder di file manager kemudian buka terminal. 
-- Tuliskan syntax "git clone https://github.com/puskipus/sistem-pengelolaan-data-mahasiswa.git", tunggu proses cloning selesai. 
-- Buka file di text editor. 
-- Buka file .env dan ubah konfigurasi sesuai database Anda. Pastikan sebelumnya sudah membuat database terlebih dahulu.
-- Lakukan migrasi database dengan syntax "php artisan migrate", tunggu proses selesai.
-- Jalankan laravel dengan syntax "php artisan serve", buka url hasil run di browser.
