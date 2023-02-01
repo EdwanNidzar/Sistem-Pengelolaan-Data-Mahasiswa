@@ -43,9 +43,17 @@ Fitur ini digunakan untuk mengurutkan data mahasiswa berdasarkan kolom tertentu.
 ![fitur6 2](https://user-images.githubusercontent.com/56621669/215971328-673d4cab-e531-4814-b4f6-136b15c91e25.png)
 Fitur ini digunakan untuk melihat jumlah mahasiswa yang berada di prodi tersebut.
 
-### 6. Melihat Jumlah Data Mahasiswa Berdasarkan Semester
-![image6](https://user-images.githubusercontent.com/56621669/215971697-70b444fa-43b4-4d12-b415-5aadc95786d0.png)
-![image6 2](https://user-images.githubusercontent.com/56621669/215971896-15810b66-c43a-448a-a6b8-0b3716b53f79.png)
+### 7. Melihat Jumlah Data Mahasiswa Berdasarkan Semester
+![image](https://user-images.githubusercontent.com/56621669/215971697-70b444fa-43b4-4d12-b415-5aadc95786d0.png)
+![image 2](https://user-images.githubusercontent.com/56621669/215971896-15810b66-c43a-448a-a6b8-0b3716b53f79.png)
 Fitur ini digunakan untuk melihat jumlah mahasiswa yang berada di semester tersebut.
 
+### 8. Melihat Jumlah Data Mahasiswa Berdasarkan Kelas
+![image](https://user-images.githubusercontent.com/56621669/215978137-173f8f85-bcb2-4700-8157-c21da3d745d9.png)
+![image 2](https://user-images.githubusercontent.com/56621669/215978346-60c963fe-8c7f-4ce9-9450-2b49850a20f7.png)
+Fitur ini digunakan untuk melihat jumlah mahasiswa yang berada di kelas tersebut.
 
+### 9. Melihat Jumlah Data Mahasiswa Berdasarkan Tahun angkatan
+![image](https://user-images.githubusercontent.com/56621669/215978574-06c2fab6-4cab-4838-859d-ac9ba8c2ef86.png)
+![image](https://user-images.githubusercontent.com/56621669/215978701-617584cc-6bc3-42c5-8d75-80cbb4a42bd4.png)
+Fitur ini digunakan untuk melihat jumlah mahasiswa yang berada di tahun angkatan tersebut.
